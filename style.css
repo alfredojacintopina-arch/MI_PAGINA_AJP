@@ -2,7 +2,7 @@ body{
     font-family: Arial, sans-serif;
     margin:20%;
     background-color: rgb(114, 208, 224);
-    color:aqua;
+    color:blueviolet;
 }
 header{
     background-color: aqua;
@@ -50,3 +50,4 @@ button:hover{
 
 background-color: aqua
 }
+
