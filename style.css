@@ -1,0 +1,52 @@
+body{
+    font-family: Arial, sans-serif;
+    margin:20%;
+    background-color: rgb(114, 208, 224);
+    color:aqua;
+}
+header{
+    background-color: aqua;
+    color:rgb(86, 51, 167);
+    padding: 10px 0%;
+    text-align: center;
+}
+h1{
+    margin: 0;
+    
+}
+main{
+    padding: 20px;
+    background-color:blueviolet rgb(192, 11, 177);
+    border-radius: 5px;
+    text-align: center;
+}
+button{
+    background-color: aqua rgb(56, 128, 122);
+    color:rgb(38, 115, 182);
+    padding:10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+main{
+    padding: 20px;
+    background-color: aqua rgb(138, 10, 10);
+    border-radius: 5px;
+    text-align: center;
+
+}
+button{
+    background-color: aqua rgb(56, 128, 122);
+    color:rgb(63, 96, 241);
+    padding:10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 15px;
+}
+button:hover{
+
+
+background-color: aqua
+}
